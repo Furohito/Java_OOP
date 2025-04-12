@@ -1,0 +1,6 @@
+com\mycompany\jsp_servlet\resources\JakartaEE8Resource.class
+com\mycompany\jsp_servlet\PersonService.class
+com\mycompany\jsp_servlet\sessionFactory.class
+com\mycompany\jsp_servlet\JakartaRestConfiguration.class
+com\mycompany\jsp_servlet\PersonServlet.class
+com\mycompany\jsp_servlet\Person.class
