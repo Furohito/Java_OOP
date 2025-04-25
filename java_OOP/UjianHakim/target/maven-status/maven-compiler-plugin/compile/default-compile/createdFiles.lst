@@ -1,0 +1,6 @@
+com\mycompany\ujianhakim\util\HibernateUtil.class
+com\mycompany\ujianhakim\model\Person.class
+com\mycompany\ujianhakim\JakartaRestConfiguration.class
+com\mycompany\ujianhakim\dao\PersonDAO.class
+com\mycompany\ujianhakim\resources\JakartaEE8Resource.class
+com\mycompany\ujianhakim\web\PersonServlet.class
